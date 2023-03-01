@@ -21,5 +21,7 @@ public class App {
         System.out.println(catBean1 == catBean2);
 
 
+
+
     }
 }
